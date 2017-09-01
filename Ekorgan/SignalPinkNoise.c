@@ -21,7 +21,7 @@ Revision History:
 Copyleft 1999 Phil Burk - No rights reserved.
 */
 
-#include <SignalPinkNoise.h>
+#include "SignalPinkNoise.h"
 #include <stdlib.h>
 #include <math.h>
 

@@ -8,6 +8,6 @@ Description:
 
 #pragma once
 
-#include <SignalTree.h>
+#include "SignalTree.h"
 
 Signal *Signal_InitPinkNoise();
