@@ -10,7 +10,7 @@ Description:
 
 #include <stdint.h>
 
-#define SAMPLE_RATE 48000
+#define SAMPLE_RATE 22050
 #define SIGNAL_BUFFER_SIZE 8192
 
 typedef uint16_t index_t;
